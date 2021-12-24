@@ -8,7 +8,7 @@ Identify trends in previous kickstarters to provide insight relevant to Louise's
 
 ## Analysis and Challenges
 
-*Analysis: conducted on a Kickstarter dataset. PivotTables and PivotCharts were the primary tools for gleaning insights. Example of dataset below. 
+* Analysis: conducted on a Kickstarter dataset. PivotTables and PivotCharts were the primary tools for gleaning insights. Example of dataset below. 
 <img width="1434" alt="image" src="https://user-images.githubusercontent.com/93338132/147302467-b0b21511-0c0c-42c8-ab47-74e188d96af7.png">
 
 * Challenges: Unix timestamps were converted to human-readable date format. Category was split into Parent & Subcategory format to further delineate. No significant challenges otherwise.
